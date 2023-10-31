@@ -1,0 +1,10 @@
+Options +FollowSymLinks
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www\.interiorcraft\.ru$ [NC]
+RewriteRule ^(.*)$ https://interiorcraft.ru/$1 [R=301,L]
+RewriteBase /
+RewriteCond %{HTTP:X-HTTPS} !1
+RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
+
+php_value log_errors on
+php_value error_log /home/c/ct16146/Main/public_html/logs/php_errors.log

@@ -1,0 +1,1 @@
+Запустить скрипт на странице Confluence в Chrome Dev Tools

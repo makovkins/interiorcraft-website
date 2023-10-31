@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="174px" height="156px" viewBox="0 0 174 156" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>ErrorIcon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="12.2893617%" y1="85.4173949%" x2="83.3148936%" y2="22.1011909%" id="linearGradient-1">
+            <stop stop-color="#C1C7D0" offset="10%"></stop>
+            <stop stop-color="#EBECF0" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-1.93717277%" y1="63.4289956%" x2="103.848168%" y2="6.60536094%" id="linearGradient-2">
+            <stop stop-color="#A5ADBA" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#A5ADBA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-1.93717277%" y1="63.4289956%" x2="103.848168%" y2="6.60536094%" id="linearGradient-3">
+            <stop stop-color="#A5ADBA" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#A5ADBA" stop-opacity="0.07" offset="11%"></stop>
+            <stop stop-color="#A5ADBA" stop-opacity="0.24" offset="32%"></stop>
+            <stop stop-color="#A5ADBA" stop-opacity="0.52" offset="60%"></stop>
+            <stop stop-color="#A5ADBA" stop-opacity="0.91" offset="93%"></stop>
+            <stop stop-color="#A5ADBA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="ErrorIcon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Illustration/Errors/Error-Loading-File">
+            <g id="Error-Loading-File">
+                <path d="M133.017447,122.567204 L133.017447,112.748815 L150.306383,112.748815 L150.306383,102.923033 L169.712936,102.923033 L169.712936,93.0972512 L150.306383,93.0972512 L150.306383,28.6418957 L121.637106,28.6418957 L121.637106,0 L30.0390638,0 L30.0390638,33.1592417 L51.3262979,33.1592417 L51.3262979,42.9850237 L3.07276596,42.9850237 L3.07276596,52.8108057 L19.5990638,52.8108057 L19.5990638,62.6291943 L43.788766,62.6291943 L43.788766,72.4549763 L0,72.4549763 L0,82.2807583 L30.0390638,82.2807583 L30.0390638,155.341991 L150.306383,155.341991 L150.306383,142.218768 L114.617872,142.218768 L114.617872,132.392986 L174,132.392986 L174,122.567204 L133.017447,122.567204 Z M87.9921702,42.4009479 L87.9921702,42.4009479 C90.2247189,42.3981595 92.3605401,43.3105867 93.9002301,44.9248833 C95.4399201,46.5391799 96.2484803,48.713806 96.1368511,50.9402844 L94.2635745,88.6464455 C94.0978069,91.9843476 91.3390966,94.6056582 87.9921702,94.6054976 L87.9921702,94.6054976 C84.6452438,94.6056582 81.8865335,91.9843476 81.720766,88.6464455 L79.8474894,50.9402844 C79.7358601,48.713806 80.5444204,46.5391799 82.0841103,44.9248833 C83.6238003,43.3105867 85.7596215,42.3981595 87.9921702,42.4009479 Z M87.9921702,115.099905 C83.7556997,115.099905 80.3213617,111.670619 80.3213617,107.440379 C80.3213617,103.21014 83.7556997,99.7808531 87.9921702,99.7808531 C92.2286408,99.7808531 95.6629787,103.21014 95.6629787,107.440379 C95.6629787,111.670619 92.2286408,115.099905 87.9921702,115.099905 Z" id="Shape" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+                <polygon id="Shape" fill="url(#linearGradient-2)" fill-rule="nonzero" opacity="0.6" style="mix-blend-mode: multiply;" points="121.837021 43.8574408 150.121277 28.6418957 121.837021 28.6418957"></polygon>
+                <polygon id="Shape" fill="#E7E8EC" fill-rule="nonzero" points="150.321191 28.6197156 150.298979 28.6197156 150.321191 28.6418957"></polygon>
+                <polygon id="Shape" fill="url(#linearGradient-3)" fill-rule="nonzero" opacity="0.6" style="mix-blend-mode: multiply;" points="121.837021 43.8574408 150.121277 28.6418957 121.837021 28.6418957"></polygon>
+                <polygon id="Shape" fill="#EBECF0" fill-rule="nonzero" opacity="0.2" points="121.837021 28.6418957 150.121277 28.6418957 150.321191 28.6418957 150.321191 28.6418957 150.321191 28.6418957 150.298979 28.6197156 121.637106 0 121.637106 0 121.637106 28.6418957"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

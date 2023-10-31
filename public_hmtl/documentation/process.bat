@@ -1,0 +1,1 @@
+@D:\Work\InteriorCraft\src\ManualHTMLProcessor\bin\Release\ManualHTMLProcessor.exe ./

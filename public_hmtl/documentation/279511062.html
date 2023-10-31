@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Interior Craft : Создание моделей</title>
+        <link rel="stylesheet" href="styles/site.css" type="text/css" />
+        <META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    </head>
+
+    <body class="theme-default aui-theme-default">
+        <div id="page">
+            <div id="main" class="aui-page-panel">
+                <div id="main-header">
+                    <div id="breadcrumb-section">
+                        <ol id="breadcrumbs">
+                            <li class="first">
+                                <span><a href="index.html">Interior Craft</a></span>
+                            </li>
+                                                    <li>
+                                <span><a href="131075.html">Документация Interior Craft</a></span>
+                            </li>
+                                                    <li>
+                                <span><a href="53182479.html">Документация разработчика</a></span>
+                            </li>
+                                                </ol>
+                    </div>
+                    <h1 id="title-heading" class="pagetitle">
+                                                <span id="title-text">
+                            Interior Craft : Создание моделей
+                        </span>
+                    </h1>
+                </div>
+
+                <div id="content" class="view">
+                    <div class="page-metadata">
+                        
+        
+    
+        
+    
+        
+        
+            Created by <span class='author'> Sergey Makovkin</span>, last modified on Feb 17, 2021
+                        </div>
+                    <div id="main-content" class="wiki-content group">
+                    <p>Создавать 3D модели необходимо в 3D Studio MAX 2021 или более новым с установленным VRay 5.</p><h1 id="id-Созданиемоделей-1.Расположениемоделивпространстве">1. Расположение модели в пространстве</h1><p>Чтобы модель корректно позиционировалась в программе Interior Craft, она должна быть расположена определенным образом относительно начала координат.</p><p>Если модель - напольный элемент, то она должна находиться в полупространстве Z &gt;= 0, Y &lt;= 0 и по центру оси X.</p><span class="confluence-embedded-file-wrapper image-center-wrapper"><img class="confluence-embedded-image image-center" loading="lazy" src="attachments/279511062/279445532.png" data-image-src="attachments/279511062/279445532.png" data-height="715" data-width="1000" data-unresolved-comment-count="0" data-linked-resource-id="279445532" data-linked-resource-version="1" data-linked-resource-type="attachment" data-linked-resource-default-alias="image-20210216-184857.png" data-base-url="https://interiorcraft.atlassian.net/wiki" data-linked-resource-content-type="image/png" data-linked-resource-container-id="279511062" data-linked-resource-container-version="4" data-media-id="76d857a0-a37b-4454-ab20-3c10ba4d46b4" data-media-type="file"></span><p>Если модель - настенный элемент, то он должен находиться в полупространстве Y &lt;=0 по центру осей X и Z.</p><span class="confluence-embedded-file-wrapper image-center-wrapper"><img class="confluence-embedded-image image-center" loading="lazy" src="attachments/279511062/279445540.png" data-image-src="attachments/279511062/279445540.png" data-height="715" data-width="1000" data-unresolved-comment-count="0" data-linked-resource-id="279445540" data-linked-resource-version="1" data-linked-resource-type="attachment" data-linked-resource-default-alias="image-20210216-185439.png" data-base-url="https://interiorcraft.atlassian.net/wiki" data-linked-resource-content-type="image/png" data-linked-resource-container-id="279511062" data-linked-resource-container-version="4" data-media-id="fb1b3674-0b05-4727-a816-e96923edbe0d" data-media-type="file"></span><h1 id="id-Созданиемоделей-2.Вспомогательныеобъекты">2. Вспомогательные объекты</h1><p>Чтобы модель в программе понимала расширенную систему позиционирования и умного масштабирования, ее необходимо оснастить различными вспомогательными объектами. Для этого используются Point Helpers и Box-ы.</p><h2 id="id-Созданиемоделей-2.1.Началокоординат(Origin)">2.1. Начало координат (Origin)</h2><p>В Interior Craft при позиционировании модели на стене или полу, она движется точкой начала координат по поверхности. Т.е. начало координат является точкой привязки. В большинстве случаев этого достаточно. Но иногда необходимо, чтобы модель прикреплялась к поверхности другой точкой, или этих точек было бы несколько с возможностью выбора точки привязки.</p><p>Для этого создается один или несколько объектов с именем <strong>Origin_001</strong>, <strong>Origin_002</strong> и т.д. Тип объекта - <strong>Point Helper</strong>. Параметр Display удобнее всего устанавливать в значение <strong>Axis Tripod</strong>.</p><span class="confluence-embedded-file-wrapper image-center-wrapper"><img class="confluence-embedded-image image-center" loading="lazy" src="attachments/279511062/279511084.png" data-image-src="attachments/279511062/279511084.png" data-height="392" data-width="434" data-unresolved-comment-count="0" data-linked-resource-id="279511084" data-linked-resource-version="1" data-linked-resource-type="attachment" data-linked-resource-default-alias="image-20210216-190633.png" data-base-url="https://interiorcraft.atlassian.net/wiki" data-linked-resource-content-type="image/png" data-linked-resource-container-id="279511062" data-linked-resource-container-version="4" data-media-id="a1fe3aeb-1586-435c-ba50-6978936d2468" data-media-type="file"></span><p>При наличие хотя бы одного такого объекта модель будет перемещаться по поверхности так, как будто это ее начало координат. Будет учитываться и позиция, и поворот данного хелпера. Если таких объектов несколько, то переключение между ними во время позиционирования модели в помещении осуществляется правым кликом мышки. Таким образом, можно менять начало координат модели по клику мыши, и модель будет сдвигаться или разворачиваться.</p><div class="confluence-information-macro confluence-information-macro-information"><span class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-icon"></span><div class="confluence-information-macro-body"><p>При наличии хотя бы одного Origin хелпера, параметр “Right Click Rotation Angle” в настройках модели теряет смысл и игнорируется. Этот параметр автоматически создает хелперы данного типа с разным углом поворота в точке [0;0;0], если таковые отсутствуют в модели.</p></div></div><h2 id="id-Созданиемоделей-2.2.Точказахватамодели(Drag)">2.2. Точка захвата модели (Drag)</h2><p>Точка, за которую пользователь курсором мыши перетаскивает модель в помещении, назовем точкой захвата или Drag точкой.</p><p>По умолчанию, точка захвата - начало координат. В большинстве случаев это не очень удобно.</p><p>Чтобы изменить точку захвата, необходимо создать один или несколько объектов с именем <strong>Drag_001,</strong> <strong>Drag_002</strong> и т.д. Тип объекта - <strong>Point Helper</strong>. Параметр Display удобнее всего устанавливать в значение <strong>Box</strong>.</p><p>Если в модели присутствуют хелперы данного типа, то она, когда переносится из “Библиотеки Элементов”, будет тащиться курсором не за начало координат, а за вспомогательную Drag точку. Переключение между Drag точками осуществляется правым кликом мыши во время перетаскивания модели в помещении.</p><p>Drag точки работают в паре с Origin точками. Изначально модель тащится за точку Drag_001, а Origin_001 является началом координат. При клике правой кнопкой мыши начало координат переключается на Origin_002, а точка захвата на Drag_002 и т.д. по кругу.</p><p>Если Drag точек больше Origin точек, то используется начало координат вместо недостающих точек. Если Origin точек нет вообще, то в качестве них могут использоваться автоматически сгенерированные Origin точки при заданном в настройках модели параметре “Right Click Rotation Angle”.</p><p>Очень часто в модели создается всего одна точка захвата Drag_001, расположенная в геометрическом центре модели. Параметр “Right Click Rotation Angle” устанавливается в значение 90 градусов. Таким образом модель таскается мышкой за ее центр, а по правому клику происходит разворот на 90 градусов.</p><span class="confluence-embedded-file-wrapper image-center-wrapper"><img class="confluence-embedded-image image-center" loading="lazy" src="attachments/279511062/279445580.png" data-image-src="attachments/279511062/279445580.png" data-height="230" data-width="300" data-unresolved-comment-count="0" data-linked-resource-id="279445580" data-linked-resource-version="2" data-linked-resource-type="attachment" data-linked-resource-default-alias="image-20210216-193052.png" data-base-url="https://interiorcraft.atlassian.net/wiki" data-linked-resource-content-type="image/png" data-linked-resource-container-id="279511062" data-linked-resource-container-version="4" data-media-id="da6369c9-7862-4a5c-a886-aa88708abfa7" data-media-type="file"></span><p>Если модель очень длинная, например “штанга для вешалок”, то точки захвата удобно поставить на левом конце, в середине и на правом конце.</p><span class="confluence-embedded-file-wrapper image-center-wrapper"><img class="confluence-embedded-image image-center" loading="lazy" src="attachments/279511062/279543872.png" data-image-src="attachments/279511062/279543872.png" data-height="138" data-width="441" data-unresolved-comment-count="0" data-linked-resource-id="279543872" data-linked-resource-version="1" data-linked-resource-type="attachment" data-linked-resource-default-alias="image-20210216-192928.png" data-base-url="https://interiorcraft.atlassian.net/wiki" data-linked-resource-content-type="image/png" data-linked-resource-container-id="279511062" data-linked-resource-container-version="4" data-media-id="64094d6a-3824-4d98-b098-2df41bac4cad" data-media-type="file"></span><div class="confluence-information-macro confluence-information-macro-information"><span class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-icon"></span><div class="confluence-information-macro-body"><p>При наличии хотя бы одной Drag точки в модели, параметр “Drag Point Location” в настройках модели теряет смысл и игнорируется.</p></div></div>
+                    </div>
+
+                                        <div class="pageSection group">
+                        <div class="pageSectionHeader">
+                            <h2 id="attachments" class="pageSectionTitle">Attachments:</h2>
+                        </div>
+
+                        <div class="greybox" align="left">
+                                                            <img src="images/icons/bullet_blue.gif" height="8" width="8" alt=""/>
+                                <a href="attachments/279511062/279445532.png">image-20210216-184857.png</a> (image/png)
+                                <br/>
+                                                            <img src="images/icons/bullet_blue.gif" height="8" width="8" alt=""/>
+                                <a href="attachments/279511062/279412758.png">image-20210216-184858.png</a> (image/png)
+                                <br/>
+                                                            <img src="images/icons/bullet_blue.gif" height="8" width="8" alt=""/>
+                                <a href="attachments/279511062/279445540.png">image-20210216-185439.png</a> (image/png)
+                                <br/>
+                                                            <img src="images/icons/bullet_blue.gif" height="8" width="8" alt=""/>
+                                <a href="attachments/279511062/279511084.png">image-20210216-190633.png</a> (image/png)
+                                <br/>
+                                                            <img src="images/icons/bullet_blue.gif" height="8" width="8" alt=""/>
+                                <a href="attachments/279511062/279543872.png">image-20210216-192928.png</a> (image/png)
+                                <br/>
+                                                            <img src="images/icons/bullet_blue.gif" height="8" width="8" alt=""/>
+                                <a href="attachments/279511062/279511120.png">image-20210216-193052.png</a> (image/png)
+                                <br/>
+                                                            <img src="images/icons/bullet_blue.gif" height="8" width="8" alt=""/>
+                                <a href="attachments/279511062/279445580.png">image-20210216-193052.png</a> (image/png)
+                                <br/>
+                                                    </div>
+                    </div>
+                    
+                                                      
+                </div>             </div> 
+            <div id="footer" role="contentinfo">
+                <section class="footer-body">
+                    <p>Document generated by Confluence on Jun 16, 2021 11:53</p>
+                    <div id="footer-logo"><a href="http://www.atlassian.com/">Atlassian</a></div>
+                </section>
+            </div>
+        </div>     </body>
+</html>

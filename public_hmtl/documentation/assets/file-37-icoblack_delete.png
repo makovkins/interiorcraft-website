@@ -1,0 +1,270 @@
+    
+    
+<!DOCTYPE html><html><head>
+    <!-- START-PRELOAD-TAGS -->
+<!-- CLASSIC-master-4906 -->
+<script>
+!function(){if('PerformanceLongTaskTiming' in window){var g=window.__tti={e:[]};
+g.o=new PerformanceObserver(function(l){g.e=g.e.concat(l.getEntries())});
+g.o.observe({entryTypes:['longtask']})}}();
+</script>
+<script>window.__buildInfo={"FRONTEND_VERSION":"CLASSIC-master-4906","BUILD_DATE":1608665785120,"EDITOR_VERSION":"134.0.0","RENDERER_VERSION":"70.0.1","PUBLIC_PATH":"https://confluence-v1.prod.atl-paas.net/master/"};</script>
+<script defer nomodule src="https://confluence-v1.prod.atl-paas.net/master/browser-not-supported.1c62ee83ca9bc7f98a3c491e5565376c.js" crossorigin="anonymous"></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/query-preloader.YSW3Y8FUsV.js"></script>
+<link rel="preload" href="https://confluence-v1.prod.atl-paas.net/master/translations.en-US~9d121199.A4DZYQKeeM.js" as="script">
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/runtime~standalone-navigation.Nqdb2ewHM6.js" crossorigin="anonymous"></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/atlaskit~66e23772.6UcTkJGwNn.js" crossorigin="anonymous"></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/afp~af75c846.MbF2aEtQVk.js" crossorigin="anonymous"></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/static~696a3ae4.ELuYAdpDWP.js" crossorigin="anonymous"></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/vendors~4134d62c.MLUonLJw2g.js" crossorigin="anonymous"></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/standalone-navigation~493df0b3.3Woi4FMR83.js" crossorigin="anonymous"></script>
+<meta name="referrer" content="origin">
+<!-- END-PRELOAD-TAGS -->
+                                    <title>Страница не найдена - Interior Craft Documentation</title>
+            
+        
+        
+
+                        
+    
+                        
+    
+
+                
+    
+        
+
+    
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE,chrome=IE7">
+<meta charset="UTF-8">
+<meta id="confluence-context-path" name="confluence-context-path" content="/wiki">
+<meta id="confluence-base-url" name="confluence-base-url" content="https://interiorcraft.atlassian.net/wiki">
+
+<meta id="atlassian-token" name="atlassian-token" content="${xsrfTokenGenerator.generateToken($req)}">
+
+<script type="text/javascript">
+        var contextPath = '/wiki';
+</script>
+
+    <meta name="robots" content="noindex,nofollow">
+    <meta name="robots" content="noarchive">
+    <meta name="confluence-request-time" content="1609958173806">
+        
+    
+        
+            <meta name="ajs-show-new-app-switcher" content="true">
+            <meta name="ajs-use-keyboard-shortcuts" content="true">
+            <meta name="ajs-discovered-plugin-features" content="{}">
+            <meta name="ajs-keyboardshortcut-hash" content="dc7e4c02422076d99bf98c3a4cb33136">
+            <meta name="ajs-team-calendars-display-time-format" content="displayTimeFormat12">
+            <meta id="team-calendars-display-week-number" content="false">
+            <meta id="team-calendars-user-timezone" content="Europe/Moscow">
+            <script type="text/x-template" id="team-calendars-messages" title="team-calendars-messages"><fieldset class="i18n hidden"><input type="hidden" name="calendar3.month.long.july" value="июля"><input type="hidden" name="calendar3.day.short.wednesday" value="ср"><input type="hidden" name="calendar3.day.short.thursday" value="чт"><input type="hidden" name="calendar3.month.short.march" value="мар."><input type="hidden" name="calendar3.month.long.april" value="апреля"><input type="hidden" name="calendar3.month.long.october" value="октября"><input type="hidden" name="calendar3.month.long.august" value="августа"><input type="hidden" name="calendar3.month.short.july" value="июл."><input type="hidden" name="calendar3.month.short.may" value="мая"><input type="hidden" name="calendar3.month.short.november" value="нояб."><input type="hidden" name="calendar3.day.long.friday" value="пятница"><input type="hidden" name="calendar3.day.long.sunday" value="воскресенье"><input type="hidden" name="calendar3.day.long.saturday" value="суббота"><input type="hidden" name="calendar3.month.short.april" value="апр."><input type="hidden" name="calendar3.day.long.wednesday" value="среда"><input type="hidden" name="calendar3.month.long.december" value="декабря"><input type="hidden" name="calendar3.month.short.october" value="окт."><input type="hidden" name="calendar3.day.long.monday" value="понедельник"><input type="hidden" name="calendar3.month.short.june" value="июн."><input type="hidden" name="calendar3.day.short.monday" value="пн"><input type="hidden" name="calendar3.day.short.tuesday" value="вт"><input type="hidden" name="calendar3.day.short.saturday" value="сб"><input type="hidden" name="calendar3.month.long.march" value="марта"><input type="hidden" name="calendar3.month.long.june" value="июня"><input type="hidden" name="calendar3.month.short.february" value="февр."><input type="hidden" name="calendar3.month.short.august" value="авг."><input type="hidden" name="calendar3.month.short.december" value="дек."><input type="hidden" name="calendar3.day.short.sunday" value="вс"><input type="hidden" name="calendar3.month.long.february" value="февраля"><input type="hidden" name="calendar3.day.long.tuesday" value="вторник"><input type="hidden" name="calendar3.month.long.may" value="мая"><input type="hidden" name="calendar3.month.long.september" value="сентября"><input type="hidden" name="calendar3.month.long.november" value="ноября"><input type="hidden" name="calendar3.month.short.january" value="янв."><input type="hidden" name="calendar3.month.short.september" value="сент."><input type="hidden" name="calendar3.day.long.thursday" value="четверг"><input type="hidden" name="calendar3.month.long.january" value="января"><input type="hidden" name="calendar3.day.short.friday" value="пт"></fieldset></script>
+            <meta name="ajs-is-confluence-admin" content="false">
+            <meta name="ajs-connection-timeout" content="10000">
+            <meta name="ajs-date.format" content="MMM dd, yyyy">
+
+    
+            <meta name="ajs-context-path" content="/wiki">
+            <meta name="ajs-base-url" content="https://interiorcraft.atlassian.net/wiki">
+            <meta name="ajs-version-number" content="1000.0.0-272133fbb933">
+            <meta name="ajs-build-number" content="6452">
+            <meta name="ajs-remote-user" content="">
+            <meta name="ajs-remote-user-key" content="">
+            <meta name="ajs-atlassian-account-id" content="">
+            <meta name="ajs-remote-user-has-licensed-access" content="false">
+            <meta name="ajs-current-user-fullname" content="">
+            <meta name="ajs-current-user-avatar-url" content="">
+            <meta name="ajs-current-user-avatar-uri-reference" content="/wiki/s/1791379654/6452/272133fbb933f6e1cc6c4d623fae08aed3898f23/_/images/icons/profilepics/anonymous.png">
+            <meta name="ajs-static-resource-url-prefix" content="/wiki/s/1791379654/6452/272133fbb933f6e1cc6c4d623fae08aed3898f23/_">
+            <meta name="ajs-global-settings-attachment-max-size" content="104857600">
+            <meta name="ajs-user-locale" content="ru_RU">
+            <meta name="ajs-enabled-dark-features" content="analytics.smoke,react.ui.graph.sha256,frontend.people.directory,improving.performance.loading.image.previews,header.with.contributors,frontend.cache.service.worker,edit.in.app.discovery,search.global-quick-search.aggregator,fabric.editor.live.macros,search.global-quick-search,new.app.switcher.icon,cpus.primary,react.ui.spa.cache,content.based.webresource.url.hashing,frontend.page.history.version,remove.browse.macros.caching,macro.fix-get-macro-body,document.conversion.direct.download,mobile.onboarding,editor.spa.createpage,foxy.fixed.width.layout,fabric.editor.blank.blogpost,connect.add-context-to-footer-webpanel,fabric.editor.fix-get-macro-methods,locale.from.prs,fd-230.invite.to.edit,timezone.from.prs,adg3.flags,frontend.individual.pagination.links,fabric.editor.blank.page,connect.js.dialog.idfilter,fd-87.editor.spa,tinymce.editor.sanitize.paste,frontend.create.page.experience.fail.error.attributes,adg3.feature.flag.analytics,search.attribution.instrumentation,com.atlassian.connect.acjs-sandbox-attr-check,fabric.editor.template.variables,gdpr.frontend.cql.support.aaid,search.terms.ugc.sending,editor.spa.uxenhancements,emcee-discover,mediaviewer.companion,com.atlassian.connect.resolve_inner_iframe_url,fabric.editor.blueprint.com.atlassian.confluence.plugins.confluence-business-blueprints_meeting-notes-blueprint,sentry,portfolio.for.jira.macro,jira.fix-issue-links,gdpr.long.term.flag.for.public.apis,adg3.flat.pagetree,frontend.mobile-app-banner,eco.links.data,frontend.show.apps.section.in.space.navigation,foxy.disable.nested.table,ng-media-viewer.enabled,gdpr.space.permissions.user.picker,engage-platform.engagekit,synchrony.user-info-bulk-api,jira.issue.macro.switch.no.cancel,frontend.revert.page-migrated.reload.tinymce,create-page-dialog.allow-parent-page,notification.plugin.api.enabled.com.atlassian.confluence.plugins.invitetoedit.api.ShareContentEvent,confluence.view.edit.transition,optional-likes-CONFDEV-53297,notification.plugin.api.enabled.com.atlassian.confluence.plugins.sharepage.api.ShareContentEvent,notification.plugin.api.enabled.com.atlassian.confluence.plugins.mentions.api.ConfluenceMentionEvent,confluence-inline-comments-resolved,jim.async.vertigo,react.ui.graph,rotp.admin.shortcuts,filestore.thumbnail,notification.plugin.api.enabled.com.atlassian.confluence.event.events.content.page.PageViewEvent,notification.plugin.api.enabled.com.atlassian.confluence.event.events.security.ForgotPasswordEvent,notification.plugin.api.enabled.com.atlassian.confluence.plugins.tasklist.event.SendTaskEmailEvent,filestore.direct.download,adg3.no.auto.optout.global.colourscheme,unified.usermanagement,sidebar.deferred,file-annotations,frontend.editor.plugins,notification.plugin.api.enabled.com.atlassian.confluence.event.events.content.comment.CommentCreateEvent,notification.plugin.api.enabled.com.atlassian.confluence.plugins.requestaccess.events.AccessGrantedEvent,confluence.sidebar.deferred,notification.plugin.api.enabled.com.atlassian.confluence.event.events.follow.FollowEvent,notification.plugin.api.enabled.com.atlassian.confluence.plugins.inlinecomments.events.InlineCommentReplyEvent,confluence.baseurl.cdn.enabled,notification.plugin.api.enabled.com.atlassian.confluence.event.events.content.blogpost.BlogPostCreateEvent,confluence.attachment.index.media,connect.no-applinks,confluence.mobile.ios.smartbanner,confluence.table.resizable,notification.batch,mention.service.userbase.sync.enabled,confluence-inline-comments-rich-editor,unified.permissions,notification.plugin.api.enabled.com.atlassian.confluence.event.events.content.blogpost.BlogPostUpdateEvent,notification.plugin.api.enabled.com.atlassian.confluence.event.events.content.blogpost.BlogPostTrashedEvent,confluence.non.polling.index.flush,rotp.project.shortcuts,com.atlassian.growth.shakuni.disabled,notification.plugin.api.enabled.com.atlassian.confluence.event.events.content.page.async.PageCreatedEvent,identity-platform.enabled,baseurl.cdn.enabled,filestore.direct.upload,notification.plugin.api.enabled.com.atlassian.confluence.plugins.files.notifications.event.FileContentMentionUpdateEvent,notification.plugin.api.enabled.com.atlassian.confluence.plugins.hipchat.api.events.HipChatUserMapped,notification.plugin.api.enabled.com.atlassian.confluence.event.events.content.blogpost.BlogPostMovedEvent,quick-reload-inline-comments-flags,jquery.feature.detection.cache,clc.quick.create,cql.search.screen,confluence.efi.onboarding.new.templates,fabric.mentions,pdf-preview,notification.plugin.api.enabled.com.atlassian.confluence.event.events.content.page.async.PageMovedEvent,notification.plugin.api.enabled.com.atlassian.confluence.plugins.invitetoedit.api.ShareAttachmentEvent,previews.sharing,notification.plugin.api.enabled.com.atlassian.confluence.plugins.files.notifications.event.FileContentUpdateEvent,previews.versions,notification.plugin.api.enabled.com.atlassian.confluence.plugins.invitetoedit.api.ShareDraftEvent,collaborative-audit-log,notification.plugin.api.enabled.com.atlassian.confluence.plugins.files.notifications.event.FileContentRemoveEvent,confluence.wrap.macro,atlassian.aui.raphael.disabled,notification.plugin.api.enabled.com.atlassian.confluence.event.events.content.comment.CommentUpdateEvent,previews.conversion-service,editor.ajax.save,app-switcher.new,notification.plugin.api.enabled.com.atlassian.confluence.event.events.content.page.PageTrashedEvent,notification.plugin.api.enabled.com.atlassian.confluence.event.events.content.page.async.PageEditedEvent,notification.plugin.api.enabled.com.atlassian.confluence.plugins.inlinecomments.events.InlineCommentResolveEvent,notification.plugin.api.enabled.com.atlassian.confluence.event.events.content.blogpost.BlogPostViewEvent,previews.trigger-all-file-types,notification.plugin.api.enabled.com.atlassian.confluence.event.events.like.LikeCreatedEvent,notification.plugin.api.enabled.com.atlassian.confluence.plugins.inlinecomments.events.InlineCommentCreateEvent,notification.plugin.api.enabled.com.atlassian.confluence.plugins.invitetoedit.api.ShareCustomEvent,notification.plugin.api.enabled.com.atlassian.confluence.plugins.requestaccess.events.AccessRequestedEvent,previews.sharing.pushstate,attachment.index.media,fusion.bitbucket.rebrand,file-annotations.likes,confluence.pagenav.deferred,notification.plugin.api.enabled.com.atlassian.confluence.plugins.sharepage.api.ShareAttachmentEvent,confluence-inline-comments,confluence-inline-comments-dangling-comment,early.header.flush">
+            <meta name="ajs-atl-token" content="">
+            <meta name="ajs-confluence-flavour" content="STANDALONE">
+            <meta name="ajs-user-date-pattern" content="d MMM y &#39;г&#39;.">
+            <meta name="ajs-iframe-allowed-for-spa" content="false">
+            <meta name="ajs-content-only" content="false">
+            <meta name="ajs-edition" content="FREE">
+    
+        <link rel="shortcut icon" href="/wiki/s/1791379654/6452/272133fbb933f6e1cc6c4d623fae08aed3898f23/1/_/favicon-update.ico">
+    <link rel="icon" type="image/x-icon" href="/wiki/s/1791379654/6452/272133fbb933f6e1cc6c4d623fae08aed3898f23/1/_/favicon-update.ico">
+
+    
+<!-- START-FRAGMENT fallback-mode.html -->
+<!-- CLASSIC-master-4906 -->
+<script>window.__buildInfo={"FRONTEND_VERSION":"CLASSIC-master-4906","BUILD_DATE":1608665785120,"EDITOR_VERSION":"134.0.0","RENDERER_VERSION":"70.0.1","PUBLIC_PATH":"https://confluence-v1.prod.atl-paas.net/master/"};</script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/runtime~fallback-mode.2TUkyAm7NA.js" crossorigin="anonymous"></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/vendors~4134d62c.MLUonLJw2g.js" crossorigin="anonymous"></script>
+<script type="module" src="https://confluence-v1.prod.atl-paas.net/master/fallback-mode~493df0b3.YZEFaJAdbH.js" crossorigin="anonymous"></script>
+<!-- END-FRAGMENT fallback-mode.html -->
+
+<link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch/osd.action" title="Interior Craft Documentation"/>
+
+    <!-- Styles -->
+            <script>
+window.WRM=window.WRM||{};window.WRM._unparsedData=window.WRM._unparsedData||{};window.WRM._unparsedErrors=window.WRM._unparsedErrors||{};
+WRM._unparsedData["com.atlassian.plugins.atlassian-plugins-webresource-plugin:context-path.context-path"]="\"/wiki\"";
+WRM._unparsedData["com.atlassian.plugins.atlassian-plugins-webresource-rest:curl.cross-origin-resources"]="false";
+WRM._unparsedData["com.atlassian.plugins.atlassian-connect-plugin:icons-css-resources.iconsCssData"]="{\"com.addonengine.analytics\":[\"space-analytics\"]}";
+WRM._unparsedData["com.atlassian.plugins.atlassian-connect-plugin:blueprint-css-resources.iconsCssData"]="{}";
+WRM._unparsedData["com.atlassian.plugins.atlassian-connect-plugin:dialog-options.data"]="{\"allJsVersion\":\"1.3.4\",\"dialogOptions\":{},\"inlineDialogOptions\":{\"com.addonengine.analytics__analytics-content-byline-item\":{\"width\":\"350px\"}},\"dialogModules\":{\"confluence-chats-integration\":{\"dialog\":{\"cacheable\":false,\"options\":{},\"key\":\"dialog\"},\"page-config-dialog\":{\"cacheable\":false,\"options\":{\"height\":\"470px\",\"chrome\":false,\"width\":\"570px\"},\"key\":\"page-config-dialog\"}},\"com.atlassian.confluence.emcee\":{\"in-product-install-dialog\":{\"cacheable\":false,\"options\":{\"size\":\"large\",\"chrome\":false},\"key\":\"in-product-install-dialog\"}}}}";
+WRM._unparsedData["com.atlassian.plugins.atlassian-connect-plugin:confluence-macro.property-panel-controls"]="{}";
+WRM._unparsedData["com.atlassian.product.fabric.pf-jira-confluence-integration-plugin:app-switcher-initial-resources.cloud-id"]="\"4da108ff-7794-4848-9a7a-dd1c737e8907\"";
+WRM._unparsedData["com.atlassian.product.fabric.pf-jira-confluence-integration-plugin:app-switcher-initial-resources.is-anonymous"]="true";
+WRM._unparsedData["com.atlassian.confluence.plugins.confluence-feature-discovery-plugin:confluence-feature-discovery-plugin-resources.test-mode"]="false";
+if(window.WRM._dataArrived)window.WRM._dataArrived();</script>
+<link type="text/css" rel="stylesheet" href="//confluence-v1.prod.atl-paas.net/master/aui-reset.css" data-wrm-external data-wrm-key="com.atlassian.auiplugin:aui-reset" data-wrm-batch-type="resource" media="all">
+<link type="text/css" rel="stylesheet" href="//confluence-v1.prod.atl-paas.net/master/aui-page-typography.css" data-wrm-external data-wrm-key="com.atlassian.auiplugin:aui-page-typography" data-wrm-batch-type="resource" media="all">
+<link type="text/css" rel="stylesheet" href="//d2m1anlfqtrtqt.cloudfront.net/interiorcraft.atlassian.net/wiki/s/d41d8cd98f00b204e9800998ecf8427e-CDN/1734460779/h/210b8ddbcac0b05e5476c72c35ac5ade/_/download/contextbatch/css/_super/batch.css?externals=__local-default__&amp;relative-url=true" data-wrm-key="_super" data-wrm-batch-type="context" media="all">
+<link type="text/css" rel="stylesheet" href="//d2m1anlfqtrtqt.cloudfront.net/interiorcraft.atlassian.net/wiki/s/d41d8cd98f00b204e9800998ecf8427e-CDN/1734460779/h/cb1094a10877313884c564d260c50439/_/download/contextbatch/css/main,atl.general,-_super/batch.css?externals=__local-default__&amp;relative-url=true" data-wrm-key="main,atl.general,-_super" data-wrm-batch-type="context" media="all">
+<link type="text/css" rel="stylesheet" href="//d2m1anlfqtrtqt.cloudfront.net/interiorcraft.atlassian.net/wiki/s/d41d8cd98f00b204e9800998ecf8427e-CDN/1734460779/h/770f8ab7ae2ae9e89d5ac6a3c35b77b6/_/download/batch/com.atlassian.auiplugin:aui-sidebar/com.atlassian.auiplugin:aui-sidebar.css?externals=__local-default__&amp;relative-url=true" data-wrm-key="com.atlassian.auiplugin:aui-sidebar" data-wrm-batch-type="resource" media="all">
+
+    
+    <!-- Dynamically generated colors styles -->
+    <link type="text/css" rel="stylesheet" href="//d2m1anlfqtrtqt.cloudfront.net/interiorcraft.atlassian.net/wiki/s/1791379654/6452/272133fbb933f6e1cc6c4d623fae08aed3898f23/1/_/styles/colors.css" media="all">
+
+
+            <!-- Scripts -->
+        <script type="text/javascript" src="//confluence-v1.prod.atl-paas.net/master/modules/jquery/1.7.2.1-confluence-custom-m05/jquery-min.js" data-wrm-external data-wrm-key="com.atlassian.plugins.jquery:jquery" data-wrm-batch-type="resource" data-initially-rendered></script>
+<script type="text/javascript" src="//d2m1anlfqtrtqt.cloudfront.net/interiorcraft.atlassian.net/wiki/s/d41d8cd98f00b204e9800998ecf8427e-CDN/1734460779/h/b02826bf95bb751002bcca6ac1cadcc1/_/download/contextbatch/js/_super/batch.js?externals=__local-default__&amp;locale=ru-RU" data-wrm-key="_super" data-wrm-batch-type="context" data-initially-rendered></script>
+<script type="text/javascript" src="//d2m1anlfqtrtqt.cloudfront.net/interiorcraft.atlassian.net/wiki/s/d41d8cd98f00b204e9800998ecf8427e-CDN/1734460779/h/ca85eec284417f01bb11a30a5d9f85ef/_/download/contextbatch/js/main,atl.general,-_super/batch.js?externals=__local-default__&amp;locale=ru-RU" data-wrm-key="main,atl.general,-_super" data-wrm-batch-type="context" data-initially-rendered></script>
+<script type="text/javascript" src="//d2m1anlfqtrtqt.cloudfront.net/interiorcraft.atlassian.net/wiki/s/d41d8cd98f00b204e9800998ecf8427e-CDN/1734460779/h/1a261ff03aa5744ecdd46d639e4b58da/_/download/batch/confluence.web.resources:breadcrumbs/confluence.web.resources:breadcrumbs.js?externals=__local-default__&amp;locale=ru-RU" data-wrm-key="confluence.web.resources:breadcrumbs" data-wrm-batch-type="resource" data-initially-rendered></script>
+<script type="text/javascript" src="//d2m1anlfqtrtqt.cloudfront.net/interiorcraft.atlassian.net/wiki/s/d41d8cd98f00b204e9800998ecf8427e-CDN/1734460779/h/7bb81b6d9c3b4a323f896fbbc25fdcb7/_/download/batch/com.atlassian.auiplugin:ajs-raf/com.atlassian.auiplugin:ajs-raf.js?externals=__local-default__" data-wrm-key="com.atlassian.auiplugin:ajs-raf" data-wrm-batch-type="resource" data-initially-rendered></script>
+<script type="text/javascript" src="//d2m1anlfqtrtqt.cloudfront.net/interiorcraft.atlassian.net/wiki/s/d41d8cd98f00b204e9800998ecf8427e-CDN/1734460779/h/07512f282e9e5f7b31d6afa0ac82b3ea/_/download/batch/com.atlassian.auiplugin:internal-@atlassian-aui-src-js-aui-internal-is-input/com.atlassian.auiplugin:internal-@atlassian-aui-src-js-aui-internal-is-input.js?externals=__local-default__&amp;locale=ru-RU" data-wrm-key="com.atlassian.auiplugin:internal-@atlassian-aui-src-js-aui-internal-is-input" data-wrm-batch-type="resource" data-initially-rendered></script>
+<script type="text/javascript" src="//d2m1anlfqtrtqt.cloudfront.net/interiorcraft.atlassian.net/wiki/s/d41d8cd98f00b204e9800998ecf8427e-CDN/1734460779/h/0c601fadb81fb5df5154ea94acdf00b8/_/download/batch/com.atlassian.auiplugin:internal-@atlassian-aui-src-js-aui-trigger/com.atlassian.auiplugin:internal-@atlassian-aui-src-js-aui-trigger.js?externals=__local-default__&amp;locale=ru-RU" data-wrm-key="com.atlassian.auiplugin:internal-@atlassian-aui-src-js-aui-trigger" data-wrm-batch-type="resource" data-initially-rendered></script>
+<script type="text/javascript" src="//d2m1anlfqtrtqt.cloudfront.net/interiorcraft.atlassian.net/wiki/s/d41d8cd98f00b204e9800998ecf8427e-CDN/1734460779/h/7911f9d9e9b07b0ebd73f8f8b9f17710/_/download/batch/com.atlassian.auiplugin:aui-trigger/com.atlassian.auiplugin:aui-trigger.js?externals=__local-default__&amp;locale=ru-RU" data-wrm-key="com.atlassian.auiplugin:aui-trigger" data-wrm-batch-type="resource" data-initially-rendered></script>
+<script type="text/javascript" src="//d2m1anlfqtrtqt.cloudfront.net/interiorcraft.atlassian.net/wiki/s/d41d8cd98f00b204e9800998ecf8427e-CDN/1734460779/h/3ccd3e6aaa33cb0c6fef06bbff46dece/_/download/batch/com.atlassian.auiplugin:internal-@atlassian-aui-src-js-aui-internal-attributes/com.atlassian.auiplugin:internal-@atlassian-aui-src-js-aui-internal-attributes.js?externals=__local-default__&amp;locale=ru-RU" data-wrm-key="com.atlassian.auiplugin:internal-@atlassian-aui-src-js-aui-internal-attributes" data-wrm-batch-type="resource" data-initially-rendered></script>
+<script type="text/javascript" src="//d2m1anlfqtrtqt.cloudfront.net/interiorcraft.atlassian.net/wiki/s/d41d8cd98f00b204e9800998ecf8427e-CDN/1734460779/h/5e5bd73719364c9d3631fb5d68b6b302/_/download/batch/com.atlassian.auiplugin:internal-@atlassian-aui-src-js-aui-internal-enforcer/com.atlassian.auiplugin:internal-@atlassian-aui-src-js-aui-internal-enforcer.js?externals=__local-default__&amp;locale=ru-RU" data-wrm-key="com.atlassian.auiplugin:internal-@atlassian-aui-src-js-aui-internal-enforcer" data-wrm-batch-type="resource" data-initially-rendered></script>
+<script type="text/javascript" src="//d2m1anlfqtrtqt.cloudfront.net/interiorcraft.atlassian.net/wiki/s/d41d8cd98f00b204e9800998ecf8427e-CDN/1734460779/h/b6984e0b405d7557b9851106637534e3/_/download/batch/com.atlassian.auiplugin:internal-@atlassian-aui-src-js-aui-inline-dialog2/com.atlassian.auiplugin:internal-@atlassian-aui-src-js-aui-inline-dialog2.js?externals=__local-default__&amp;locale=ru-RU" data-wrm-key="com.atlassian.auiplugin:internal-@atlassian-aui-src-js-aui-inline-dialog2" data-wrm-batch-type="resource" data-initially-rendered></script>
+<script type="text/javascript" src="//d2m1anlfqtrtqt.cloudfront.net/interiorcraft.atlassian.net/wiki/s/d41d8cd98f00b204e9800998ecf8427e-CDN/1734460779/h/26762f3eb1de7ac02401939a866e7943/_/download/batch/com.atlassian.auiplugin:aui-inline-dialog2/com.atlassian.auiplugin:aui-inline-dialog2.js?externals=__local-default__&amp;locale=ru-RU" data-wrm-key="com.atlassian.auiplugin:aui-inline-dialog2" data-wrm-batch-type="resource" data-initially-rendered></script>
+<script type="text/javascript" src="//d2m1anlfqtrtqt.cloudfront.net/interiorcraft.atlassian.net/wiki/s/d41d8cd98f00b204e9800998ecf8427e-CDN/1734460779/h/18a9ff59aee33a1e0e0fc187b1932098/_/download/batch/com.atlassian.auiplugin:internal-@atlassian-aui-src-js-vendor-raf-raf/com.atlassian.auiplugin:internal-@atlassian-aui-src-js-vendor-raf-raf.js?externals=__local-default__&amp;locale=ru-RU" data-wrm-key="com.atlassian.auiplugin:internal-@atlassian-aui-src-js-vendor-raf-raf" data-wrm-batch-type="resource" data-initially-rendered></script>
+<script type="text/javascript" src="//d2m1anlfqtrtqt.cloudfront.net/interiorcraft.atlassian.net/wiki/s/d41d8cd98f00b204e9800998ecf8427e-CDN/1734460779/h/328dfe75388b7048328f8582b2f207c0/_/download/batch/com.atlassian.auiplugin:internal-@atlassian-aui-src-js-aui-internal-has-touch/com.atlassian.auiplugin:internal-@atlassian-aui-src-js-aui-internal-has-touch.js?externals=__local-default__&amp;locale=ru-RU" data-wrm-key="com.atlassian.auiplugin:internal-@atlassian-aui-src-js-aui-internal-has-touch" data-wrm-batch-type="resource" data-initially-rendered></script>
+<script type="text/javascript" src="//d2m1anlfqtrtqt.cloudfront.net/interiorcraft.atlassian.net/wiki/s/d41d8cd98f00b204e9800998ecf8427e-CDN/1734460779/h/48d997c88e47e30256f46d6571b689b9/_/download/batch/com.atlassian.auiplugin:internal-@atlassian-aui-src-js-aui-internal-mediaQuery/com.atlassian.auiplugin:internal-@atlassian-aui-src-js-aui-internal-mediaQuery.js?externals=__local-default__&amp;locale=ru-RU" data-wrm-key="com.atlassian.auiplugin:internal-@atlassian-aui-src-js-aui-internal-mediaQuery" data-wrm-batch-type="resource" data-initially-rendered></script>
+<script type="text/javascript" src="//d2m1anlfqtrtqt.cloudfront.net/interiorcraft.atlassian.net/wiki/s/d41d8cd98f00b204e9800998ecf8427e-CDN/1734460779/h/0fff6f6fe3778544a924e987d8fa84f5/_/download/batch/com.atlassian.auiplugin:internal-@atlassian-aui-src-js-aui-sidebar/com.atlassian.auiplugin:internal-@atlassian-aui-src-js-aui-sidebar.js?externals=__local-default__&amp;locale=ru-RU" data-wrm-key="com.atlassian.auiplugin:internal-@atlassian-aui-src-js-aui-sidebar" data-wrm-batch-type="resource" data-initially-rendered></script>
+
+                
+    
+        
+    
+
+        
+        <meta name="decorator" content="atl.general">
+    
+
+    
+
+    
+    </head>
+    
+
+    
+<body      id="com-atlassian-confluence" class="theme-default error-page  aui-layout aui-theme-default">
+    <script>
+        var __INITIAL_STATE__ = typeof __INITIAL_STATE__ !== 'undefined' ? __INITIAL_STATE__ : { i18n: { locale: 'ru-RU', messages: {} } };
+    </script>
+    <div class="banner-spacer-container"></div>
+    <div style="display:flex;" data-main-container>
+        <div id="ui-global-sidebar-section" slot="navigation" style="z-index: 2"></div>
+        <div style="flex-flow: row wrap; width: 100%" data-flex-container>
+            <div style="flex: 1 100%" data-main-content>
+                
+        
+    
+            </div>
+            
+<!-- START-FRAGMENT standalone-navigation.html -->
+
+
+
+<style type="text/css">
+    /* A very basic CSS override to avoid FOUC when loading async styles */
+    body, body.aui-layout { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Noto Sans", "Ubuntu", "Droid Sans", "Helvetica Neue", sans-serif; }
+    body { font-size: 14px; margin:0; padding:0; background-color: #fff }
+    #main, #admin-content, #custom-content-container, .ap-servlet-placeholder { opacity: 0 }
+    a { text-decoration: none; }
+    h1 { font-weight: normal; }
+</style>
+
+<!-- END-FRAGMENT standalone-navigation.html -->
+    <div id="header-precursor">
+        <div class="cell">
+            
+                            </div>
+    </div>
+
+        
+                        
+    <!-- \#header -->
+
+            
+                
+        <div id="main" class=" aui-page-panel ">
+                <div class="connect-theme-background-cover"></div>
+                                                <div id="main-header">
+                                        
+                    
+                    <div id="title-heading" class="pagetitle with-breadcrumbs">
+                        
+                                                    <div id="breadcrumb-section">
+                                
+    
+    
+    <ol id="breadcrumbs">
+                        </ol>
+
+
+                            </div>
+                        
+                        
+
+                        <h1 id="title-text" class="with-breadcrumbs">
+                                                                Страница не найдена
+                                                    </h1>
+                    </div>
+                </div><!-- \#main-header -->
+            
+                            
+                        
+        <meta name="confluence-request-uri" content="/wiki/fourohfour.action">        <meta name="confluence-query-string" content="">        
+		<p>Страница, которую вы запросили, не найдена. Возможные причины:</p>
+		<ul>
+		    <li>Данная страница не существует.</li>
+		    <li>Данная страница существует, но у вас нет прав доступа к ней.</li>
+		</ul>
+		
+
+<div id="action-messages">
+                        </div>
+
+					<h3 id="searchheading">Поиск по сайту</h3>
+			<form method="GET" action="/wiki/search" name="searchForm" class="aui">
+				<input type="text" accessKey="s" id="searchfield" name="text" size="40" class="text"/>
+				<input type="submit" value="Поиск" class="aui-button"/>
+			</form>
+			<h3>Переход к</h3>
+			<ul>
+				<li><a href="/wiki/">Домашняя страница сайта</a></li>
+				<li><a href="/wiki/dashboard.action">Ваша панель инструментов</a></li>
+			</ul>
+		            
+
+
+
+    
+                        </div>
+    <!-- \#main -->
+            
+    
+    
+                    
+            
+        
+    
+    </div><!-- flex-flow: row wrap -->
+    </div><!-- display: flex -->
+
+    <span style="display:none;" id="confluence-server-performance">{"serverDuration": 72, "requestCorrelationId": "fb86160a1cb2abf6"}</span>
+</body>
+</html>
+    
